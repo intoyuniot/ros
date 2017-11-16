@@ -1,0 +1,28 @@
+{
+    "name": "ros",
+    "version": "1.0.0",
+    "keywords": "ros",
+    "description": "ros系统基础库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/ros.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "dependencies":
+    [
+        {
+            "name": "std_msgs",
+            "frameworks": "arduino"
+        },
+        {
+            "name": "rosserial_msgs",
+            "frameworks": "arduino"
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+

@@ -1,0 +1,60 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+Subscriber  KEYWORD1
+Subscriber_  KEYWORD1
+ServiceServer  KEYWORD1
+ServiceClient  KEYWORD1
+Time  KEYWORD1
+IntoRobotSTM32Hardware  KEYWORD1
+Msg  KEYWORD1
+NodeHandleBase_  KEYWORD1
+NodeHandle_  KEYWORD1
+Publisher  KEYWORD1
+Duration  KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+getEndpointType  KEYWORD2
+getMsgMD5  KEYWORD2
+getMsgType  KEYWORD2
+call  KEYWORD2
+setNow  KEYWORD2
+now  KEYWORD2
+fromNSec  KEYWORD2
+toNsec  KEYWORD2
+fromSec  KEYWORD2
+toSec  KEYWORD2
+setType  KEYWORD2
+setBaud  KEYWORD2
+init  KEYWORD2
+read  KEYWORD2
+write  KEYWORD2
+serialize  KEYWORD2
+deserialize  KEYWORD2
+getType  KEYWORD2
+getMD5  KEYWORD2
+serializeAvrFloat64  KEYWORD2
+deserializeAvrFloat64  KEYWORD2
+initNode  KEYWORD2
+spinOnce  KEYWORD2
+requestSyncTime  KEYWORD2
+syncTime  KEYWORD2
+setNow  KEYWORD2
+advertise  KEYWORD2
+negotiateTopics  KEYWORD2
+getEndpointType  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
